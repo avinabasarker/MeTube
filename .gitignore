@@ -12,3 +12,6 @@ evidence/
 Thumbs.db
 Desktop.ini
 tmpdl_*/
+bin/
+.e2e/
+.testdata/
