@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+data/
+downloads/
+evidence/
+*.log
+*.rar
+*.zip
+Thumbs.db
+Desktop.ini
+tmpdl_*/
