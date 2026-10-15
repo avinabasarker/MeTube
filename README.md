@@ -124,4 +124,4 @@ MeTube has no accounts, no analytics, and sends nothing but the requests require
 |---|---|
 | yt-dlp | Unlicense (public domain) |
 | FFmpeg / FFprobe | LGPL / GPL — see the FFmpeg project |
-| MeTube itself | personal use |
+| MeTube itself | MIT |
